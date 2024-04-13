@@ -1,4 +1,4 @@
-package com.viradonojiraya.a_indroducaoclasses.dominio;
+package com.viradonojiraya.javacore.a_indroducaoclasses.dominio;
 
 public class Professor {
     public String nome;

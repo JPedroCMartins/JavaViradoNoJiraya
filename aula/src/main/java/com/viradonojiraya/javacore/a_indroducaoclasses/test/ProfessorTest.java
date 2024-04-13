@@ -1,6 +1,6 @@
-package com.viradonojiraya.a_indroducaoclasses.test;
+package com.viradonojiraya.javacore.a_indroducaoclasses.test;
 
-import com.viradonojiraya.a_indroducaoclasses.dominio.Professor;
+import com.viradonojiraya.javacore.a_indroducaoclasses.dominio.Professor;
 
 public class ProfessorTest {
     public static void main(String[] args) {

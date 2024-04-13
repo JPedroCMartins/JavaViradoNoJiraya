@@ -1,5 +1,5 @@
-package com.viradonojiraya.a_indroducaoclasses.test;
-import com.viradonojiraya.a_indroducaoclasses.dominio.Estudante;
+package com.viradonojiraya.javacore.a_indroducaoclasses.test;
+import com.viradonojiraya.javacore.a_indroducaoclasses.dominio.Estudante;
 public class EstudanteTest {
     public static void main(String[] args) {
 		Estudante estudante = new Estudante();

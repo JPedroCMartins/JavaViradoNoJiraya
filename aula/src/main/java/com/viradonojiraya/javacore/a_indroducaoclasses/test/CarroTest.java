@@ -1,5 +1,5 @@
-package com.viradonojiraya.a_indroducaoclasses.test;
-import com.viradonojiraya.a_indroducaoclasses.dominio.Carro;
+package com.viradonojiraya.javacore.a_indroducaoclasses.test;
+import com.viradonojiraya.javacore.a_indroducaoclasses.dominio.Carro;
 public class CarroTest {
     public static void main(String[] args) {
         Carro car1 = new Carro();
