@@ -8,6 +8,13 @@
             "type": "java",
             "name": "AnimeTest",
             "request": "launch",
+            "mainClass": "com.viradonojiraya.javacore.e_blocosinicializacao.test.AnimeTest",
+            "projectName": "aula"
+        },
+        {
+            "type": "java",
+            "name": "AnimeTest",
+            "request": "launch",
             "mainClass": "com.viradonojiraya.javacore.d_construtores.test.AnimeTest",
             "projectName": "aula"
         },
