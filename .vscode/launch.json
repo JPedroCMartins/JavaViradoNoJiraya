@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AnimeTest",
+            "request": "launch",
+            "mainClass": "com.viradonojiraya.javacore.d_construtores.test.AnimeTest",
+            "projectName": "aula"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
