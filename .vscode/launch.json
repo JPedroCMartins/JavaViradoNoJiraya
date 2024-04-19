@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CarroTest",
+            "request": "launch",
+            "mainClass": "com.viradonojiraya.javacore.a_indroducaoclasses.test.CarroTest",
+            "projectName": "aula"
+        },
+        {
+            "type": "java",
+            "name": "EstudanteTest",
+            "request": "launch",
+            "mainClass": "com.viradonojiraya.javacore.a_indroducaoclasses.test.EstudanteTest",
+            "projectName": "aula"
+        },
+        {
+            "type": "java",
+            "name": "ProfessorTest",
+            "request": "launch",
+            "mainClass": "com.viradonojiraya.javacore.a_indroducaoclasses.test.ProfessorTest",
+            "projectName": "aula"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraTest1",
+            "request": "launch",
+            "mainClass": "com.viradonojiraya.javacore.b_introducaometodos.test.CalculadoraTest1",
+            "projectName": "aula"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraTest2",
+            "request": "launch",
+            "mainClass": "com.viradonojiraya.javacore.b_introducaometodos.test.CalculadoraTest2",
+            "projectName": "aula"
+        },
+        {
+            "type": "java",
+            "name": "EstudantesTest",
+            "request": "launch",
+            "mainClass": "com.viradonojiraya.javacore.b_introducaometodos.test.EstudantesTest",
+            "projectName": "aula"
+        },
+        {
+            "type": "java",
+            "name": "FuncionarioTest",
+            "request": "launch",
+            "mainClass": "com.viradonojiraya.javacore.b_introducaometodos.test.FuncionarioTest",
+            "projectName": "aula"
+        },
+        {
+            "type": "java",
+            "name": "PessoaTest",
+            "request": "launch",
+            "mainClass": "com.viradonojiraya.javacore.b_introducaometodos.test.PessoaTest",
+            "projectName": "aula"
+        },
+        {
+            "type": "java",
+            "name": "AnimeTest",
+            "request": "launch",
+            "mainClass": "com.viradonojiraya.javacore.c_sobrecargametodos.test.AnimeTest",
+            "projectName": "aula"
+        }
+    ]
+}
